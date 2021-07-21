@@ -10,3 +10,5 @@ __<b>Slicing matrix</b> is possible based on index and also based on relative po
 __Loading data <b>from vector</b> or directly <b>from files</b> to matrix is possible with this.<br />
 __<b>Arraywise operations, Row wise operations and coloumn wise</b> operations are also supported.<br />
 __It also support pooling operations like <b>max pooling</b> (under construction).<br />
+
+# Dependencies:"Boost/algorithm/string.hpp"
