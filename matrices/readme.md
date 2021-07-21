@@ -1,7 +1,7 @@
     /*  
         IMPORTANT NOTE
 
-        #   This is my first ever cpp project and is far from even good.
+        #   This is my first cpp project and is far from even good.
         #   Open to healthly criticism.(  help me to know more )
 
     */
