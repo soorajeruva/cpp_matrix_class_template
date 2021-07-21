@@ -11,4 +11,4 @@ __Loading data <b>from vector</b> or directly <b>from files</b> to matrix is pos
 __<b>Arraywise operations, Row wise operations and coloumn wise</b> operations are also supported.<br />
 __It also support pooling operations like <b>max pooling</b> (under construction).<br />
 
-# Dependencies:"Boost/algorithm/string.hpp"
+# Dependency:   "boost/algorithm/string.hpp" -std=c++17
